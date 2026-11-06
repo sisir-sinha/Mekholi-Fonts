@@ -1,0 +1,13 @@
+title: "Mekholi — মেখলি"
+description: "An experimental serif font family for Bishnupriya Manipuri. Documentation, OFL licensing and a live type playground."
+url: "https://sisir-sinha.github.io"
+baseurl: "/Mekholi-Fonts"
+markdown: kramdown
+exclude:
+  - tools
+  - README.md
+  - mekholi-family/source
+  - mekholi-prototype
+  - ttf
+  - Gemfile
+  - Gemfile.lock
