@@ -1,0 +1,19 @@
+/* Copyright (c) 2026 Surajit Singha Sisir and Ningshing Che.
+   SIL OFL 1.1 — https://openfontlicense.org/ — see bundled OFL.txt.
+   Reserved Font Name Mekholi. */
+/* Mekholi Regular 1.0 — experimental derivative. Keep OFL.txt with distribution. */
+@font-face {
+  font-family: 'Mekholi';
+  src: url('./Mekholi-Regular.woff2') format('woff2'),
+       url('./Mekholi-Regular.woff') format('woff');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+.mekholi {
+  font-family: 'Mekholi', serif;
+  font-weight: 400;
+  font-style: normal;
+  font-synthesis: none;
+  line-height: 1.6;
+}

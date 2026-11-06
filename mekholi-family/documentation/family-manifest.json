@@ -1,0 +1,164 @@
+[
+  {
+    "style": "Thin",
+    "weight": 100,
+    "italic": false,
+    "file": "Mekholi-Thin.ttf",
+    "stroke_change_units": -28,
+    "slant_degrees": 0,
+    "status": "experimental-mechanical"
+  },
+  {
+    "style": "Thin Italic",
+    "weight": 100,
+    "italic": true,
+    "file": "Mekholi-ThinItalic.ttf",
+    "stroke_change_units": -28,
+    "slant_degrees": 12,
+    "status": "experimental-mechanical"
+  },
+  {
+    "style": "Extra Light",
+    "weight": 200,
+    "italic": false,
+    "file": "Mekholi-ExtraLight.ttf",
+    "stroke_change_units": -19,
+    "slant_degrees": 0,
+    "status": "experimental-mechanical"
+  },
+  {
+    "style": "Extra Light Italic",
+    "weight": 200,
+    "italic": true,
+    "file": "Mekholi-ExtraLightItalic.ttf",
+    "stroke_change_units": -19,
+    "slant_degrees": 12,
+    "status": "experimental-mechanical"
+  },
+  {
+    "style": "Light",
+    "weight": 300,
+    "italic": false,
+    "file": "Mekholi-Light.ttf",
+    "stroke_change_units": -10,
+    "slant_degrees": 0,
+    "status": "experimental-mechanical"
+  },
+  {
+    "style": "Light Italic",
+    "weight": 300,
+    "italic": true,
+    "file": "Mekholi-LightItalic.ttf",
+    "stroke_change_units": -10,
+    "slant_degrees": 12,
+    "status": "experimental-mechanical"
+  },
+  {
+    "style": "Regular",
+    "weight": 400,
+    "italic": false,
+    "file": "Mekholi-Regular.ttf",
+    "stroke_change_units": 0,
+    "slant_degrees": 0,
+    "status": "experimental-mechanical"
+  },
+  {
+    "style": "Regular Italic",
+    "weight": 400,
+    "italic": true,
+    "file": "Mekholi-RegularItalic.ttf",
+    "stroke_change_units": 0,
+    "slant_degrees": 12,
+    "status": "experimental-mechanical"
+  },
+  {
+    "style": "Medium",
+    "weight": 500,
+    "italic": false,
+    "file": "Mekholi-Medium.ttf",
+    "stroke_change_units": 10,
+    "slant_degrees": 0,
+    "status": "experimental-mechanical"
+  },
+  {
+    "style": "Medium Italic",
+    "weight": 500,
+    "italic": true,
+    "file": "Mekholi-MediumItalic.ttf",
+    "stroke_change_units": 10,
+    "slant_degrees": 12,
+    "status": "experimental-mechanical"
+  },
+  {
+    "style": "Semi Bold",
+    "weight": 600,
+    "italic": false,
+    "file": "Mekholi-SemiBold.ttf",
+    "stroke_change_units": 20,
+    "slant_degrees": 0,
+    "status": "experimental-mechanical"
+  },
+  {
+    "style": "Semi Bold Italic",
+    "weight": 600,
+    "italic": true,
+    "file": "Mekholi-SemiBoldItalic.ttf",
+    "stroke_change_units": 20,
+    "slant_degrees": 12,
+    "status": "experimental-mechanical"
+  },
+  {
+    "style": "Bold",
+    "weight": 700,
+    "italic": false,
+    "file": "Mekholi-Bold.ttf",
+    "stroke_change_units": 32,
+    "slant_degrees": 0,
+    "status": "experimental-mechanical"
+  },
+  {
+    "style": "Bold Italic",
+    "weight": 700,
+    "italic": true,
+    "file": "Mekholi-BoldItalic.ttf",
+    "stroke_change_units": 32,
+    "slant_degrees": 12,
+    "status": "experimental-mechanical"
+  },
+  {
+    "style": "Extra Bold",
+    "weight": 800,
+    "italic": false,
+    "file": "Mekholi-ExtraBold.ttf",
+    "stroke_change_units": 44,
+    "slant_degrees": 0,
+    "status": "experimental-mechanical"
+  },
+  {
+    "style": "Extra Bold Italic",
+    "weight": 800,
+    "italic": true,
+    "file": "Mekholi-ExtraBoldItalic.ttf",
+    "stroke_change_units": 44,
+    "slant_degrees": 12,
+    "status": "experimental-mechanical"
+  },
+  {
+    "style": "Black",
+    "weight": 900,
+    "italic": false,
+    "file": "Mekholi-Black.ttf",
+    "stroke_change_units": 58,
+    "slant_degrees": 0,
+    "status": "experimental-mechanical"
+  },
+  {
+    "style": "Black Italic",
+    "weight": 900,
+    "italic": true,
+    "file": "Mekholi-BlackItalic.ttf",
+    "stroke_change_units": 58,
+    "slant_degrees": 12,
+    "status": "experimental-mechanical"
+  }
+]

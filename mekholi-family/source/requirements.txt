@@ -1,0 +1,6 @@
+# Copyright (c) 2026 Surajit Singha Sisir and Ningshing Che.
+# SIL OFL 1.1: https://openfontlicense.org/ — see ../OFL.txt.
+fonttools==4.68.0
+brotli==1.2.1
+uharfbuzz==0.57.0
+skia-pathops==0.9.2

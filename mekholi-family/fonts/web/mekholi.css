@@ -1,0 +1,20 @@
+/* Copyright (c) 2026 Surajit Singha Sisir and Ningshing Che. SIL OFL 1.1: https://openfontlicense.org/ */
+@font-face { font-family: 'Mekholi'; src: url('./Mekholi-Thin.woff2') format('woff2'), url('./Mekholi-Thin.woff') format('woff'); font-weight: 100; font-style: normal; font-display: swap; }
+@font-face { font-family: 'Mekholi'; src: url('./Mekholi-ThinItalic.woff2') format('woff2'), url('./Mekholi-ThinItalic.woff') format('woff'); font-weight: 100; font-style: italic; font-display: swap; }
+@font-face { font-family: 'Mekholi'; src: url('./Mekholi-ExtraLight.woff2') format('woff2'), url('./Mekholi-ExtraLight.woff') format('woff'); font-weight: 200; font-style: normal; font-display: swap; }
+@font-face { font-family: 'Mekholi'; src: url('./Mekholi-ExtraLightItalic.woff2') format('woff2'), url('./Mekholi-ExtraLightItalic.woff') format('woff'); font-weight: 200; font-style: italic; font-display: swap; }
+@font-face { font-family: 'Mekholi'; src: url('./Mekholi-Light.woff2') format('woff2'), url('./Mekholi-Light.woff') format('woff'); font-weight: 300; font-style: normal; font-display: swap; }
+@font-face { font-family: 'Mekholi'; src: url('./Mekholi-LightItalic.woff2') format('woff2'), url('./Mekholi-LightItalic.woff') format('woff'); font-weight: 300; font-style: italic; font-display: swap; }
+@font-face { font-family: 'Mekholi'; src: url('./Mekholi-Regular.woff2') format('woff2'), url('./Mekholi-Regular.woff') format('woff'); font-weight: 400; font-style: normal; font-display: swap; }
+@font-face { font-family: 'Mekholi'; src: url('./Mekholi-RegularItalic.woff2') format('woff2'), url('./Mekholi-RegularItalic.woff') format('woff'); font-weight: 400; font-style: italic; font-display: swap; }
+@font-face { font-family: 'Mekholi'; src: url('./Mekholi-Medium.woff2') format('woff2'), url('./Mekholi-Medium.woff') format('woff'); font-weight: 500; font-style: normal; font-display: swap; }
+@font-face { font-family: 'Mekholi'; src: url('./Mekholi-MediumItalic.woff2') format('woff2'), url('./Mekholi-MediumItalic.woff') format('woff'); font-weight: 500; font-style: italic; font-display: swap; }
+@font-face { font-family: 'Mekholi'; src: url('./Mekholi-SemiBold.woff2') format('woff2'), url('./Mekholi-SemiBold.woff') format('woff'); font-weight: 600; font-style: normal; font-display: swap; }
+@font-face { font-family: 'Mekholi'; src: url('./Mekholi-SemiBoldItalic.woff2') format('woff2'), url('./Mekholi-SemiBoldItalic.woff') format('woff'); font-weight: 600; font-style: italic; font-display: swap; }
+@font-face { font-family: 'Mekholi'; src: url('./Mekholi-Bold.woff2') format('woff2'), url('./Mekholi-Bold.woff') format('woff'); font-weight: 700; font-style: normal; font-display: swap; }
+@font-face { font-family: 'Mekholi'; src: url('./Mekholi-BoldItalic.woff2') format('woff2'), url('./Mekholi-BoldItalic.woff') format('woff'); font-weight: 700; font-style: italic; font-display: swap; }
+@font-face { font-family: 'Mekholi'; src: url('./Mekholi-ExtraBold.woff2') format('woff2'), url('./Mekholi-ExtraBold.woff') format('woff'); font-weight: 800; font-style: normal; font-display: swap; }
+@font-face { font-family: 'Mekholi'; src: url('./Mekholi-ExtraBoldItalic.woff2') format('woff2'), url('./Mekholi-ExtraBoldItalic.woff') format('woff'); font-weight: 800; font-style: italic; font-display: swap; }
+@font-face { font-family: 'Mekholi'; src: url('./Mekholi-Black.woff2') format('woff2'), url('./Mekholi-Black.woff') format('woff'); font-weight: 900; font-style: normal; font-display: swap; }
+@font-face { font-family: 'Mekholi'; src: url('./Mekholi-BlackItalic.woff2') format('woff2'), url('./Mekholi-BlackItalic.woff') format('woff'); font-weight: 900; font-style: italic; font-display: swap; }
+.mekholi { font-family: 'Mekholi', serif; font-synthesis: none; line-height: 1.75; }
