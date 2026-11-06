@@ -1,0 +1,38 @@
+{
+  "fonts/ttf/Mekholi-Regular.ttf": {
+    "copyright": "Copyright (c) 2022, Tanbin Islam Siyam (https://omicronlab.com), with Reserved Font Name Kalpurush. Copyright (c) 2026, Surajit Singha Sisir and Ningshing Che, for the Mekholi modifications, with Reserved Font Name Mekholi.",
+    "family": "Mekholi",
+    "style": "Regular",
+    "version": "Version 1.000; Prototype 1",
+    "developer": "Ningshing Che",
+    "designer": "Surajit Singha Sisir",
+    "license_name_id_13_matches_full_OFL_file": true,
+    "license_url": "https://openfontlicense.org/",
+    "embedding_fsType": 0,
+    "sha256": "cca2afbb9203946509de54c5a2123195e8f141bdfeac76e66234256f4838a261"
+  },
+  "fonts/web/Mekholi-Regular.woff": {
+    "copyright": "Copyright (c) 2022, Tanbin Islam Siyam (https://omicronlab.com), with Reserved Font Name Kalpurush. Copyright (c) 2026, Surajit Singha Sisir and Ningshing Che, for the Mekholi modifications, with Reserved Font Name Mekholi.",
+    "family": "Mekholi",
+    "style": "Regular",
+    "version": "Version 1.000; Prototype 1",
+    "developer": "Ningshing Che",
+    "designer": "Surajit Singha Sisir",
+    "license_name_id_13_matches_full_OFL_file": true,
+    "license_url": "https://openfontlicense.org/",
+    "embedding_fsType": 0,
+    "sha256": "06f0a5d64df379ce315b99b51cd61dabc9890ae6f1ecfa9de3b92680e7c59635"
+  },
+  "fonts/web/Mekholi-Regular.woff2": {
+    "copyright": "Copyright (c) 2022, Tanbin Islam Siyam (https://omicronlab.com), with Reserved Font Name Kalpurush. Copyright (c) 2026, Surajit Singha Sisir and Ningshing Che, for the Mekholi modifications, with Reserved Font Name Mekholi.",
+    "family": "Mekholi",
+    "style": "Regular",
+    "version": "Version 1.000; Prototype 1",
+    "developer": "Ningshing Che",
+    "designer": "Surajit Singha Sisir",
+    "license_name_id_13_matches_full_OFL_file": true,
+    "license_url": "https://openfontlicense.org/",
+    "embedding_fsType": 0,
+    "sha256": "a6e1e75649ae04f72f9c17313082c86ada12ab83b46215867ffe019dd4d1f2f9"
+  }
+}

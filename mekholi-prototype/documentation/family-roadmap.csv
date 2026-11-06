@@ -1,0 +1,19 @@
+family,style,weight,italic,status
+Mekholi,Thin,100,false,Planned; not built
+Mekholi,Thin Italic,100,true,Planned; not built
+Mekholi,Extra Light,200,false,Planned; not built
+Mekholi,Extra Light Italic,200,true,Planned; not built
+Mekholi,Light,300,false,Planned; not built
+Mekholi,Light Italic,300,true,Planned; not built
+Mekholi,Regular,400,false,Prototype 1 built
+Mekholi,Regular Italic,400,true,Planned; not built
+Mekholi,Medium,500,false,Planned; not built
+Mekholi,Medium Italic,500,true,Planned; not built
+Mekholi,Semi Bold,600,false,Planned; not built
+Mekholi,Semi Bold Italic,600,true,Planned; not built
+Mekholi,Bold,700,false,Planned; not built
+Mekholi,Bold Italic,700,true,Planned; not built
+Mekholi,Extra Bold,800,false,Planned; not built
+Mekholi,Extra Bold Italic,800,true,Planned; not built
+Mekholi,Black,900,false,Planned; not built
+Mekholi,Black Italic,900,true,Planned; not built

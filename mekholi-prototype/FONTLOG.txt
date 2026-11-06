@@ -1,0 +1,32 @@
+FONTLOG for Mekholi
+===================
+This log records changes to the Mekholi Font Software.
+License: SIL Open Font License 1.1 — https://openfontlicense.org/
+Copyright (c) 2026 Surajit Singha Sisir and Ningshing Che (Mekholi modifications).
+Reserved Font Name: Mekholi.
+Upstream copyright (c) 2022 Tanbin Islam Siyam; Reserved Font Name: Kalpurush.
+Original Latin outlines credited upstream to Gentium / SIL International.
+
+2026-11-06 — Version 1.0, Regular Prototype 1
+- Created a Kalpurush 0.258 derivative with 3% horizontal expansion.
+- Updated matching spacing and mark positioning; revised vertical metrics.
+- Removed invalidated hints and legacy device metrics.
+- Renamed the family Mekholi and added project designer/developer credits.
+- Generated TTF, WOFF, WOFF2; other family styles remain planned.
+
+2026-11-06 — OFL metadata/package revision 2; outlines unchanged
+- Copyright holders for Mekholi modifications confirmed as Surajit Singha
+  Sisir and Ningshing Che. Mekholi declared a Reserved Font Name.
+- Preserved the upstream copyright and Reserved Font Name Kalpurush.
+- Embedded complete bundled OFL 1.1 text in name ID 13.
+- Set name ID 14 to https://openfontlicense.org/ and fsType to 0.
+- Removed contradictory historical license wording from active Mekholi
+  copyright metadata; unmodified source font and README retain it as evidence.
+- Included official OFL-FAQ.txt and added licensing guidance to project files.
+- Rebuilt all formats and embedded preview fonts; reran validation.
+
+Acknowledgments
+Designer of Mekholi modifications: Surajit Singha Sisir.
+Developer of Mekholi modifications: Ningshing Che.
+Original Bengali design: Md. Tanbin Islam Siyam, Avro Font Development Project.
+These acknowledgments do not imply upstream endorsement.

@@ -1,0 +1,22 @@
+{
+  "status": "PASS",
+  "cases": 4103,
+  "notdef_cases": [],
+  "changed_glyph_selection_cases": [],
+  "shaped_vertical_outliers": [],
+  "max_advance_rounding_difference_units": 0,
+  "checksum_errors": [],
+  "whole_checksum": "0xb1b0afba",
+  "glyphs": 586,
+  "codepoints": 210,
+  "outline_bounds": [
+    -572,
+    -402,
+    1152,
+    1033
+  ],
+  "upstream_sha256": "83613a03e53aad8337f2be9fb974409a23c1d99b3b4b494567ba9d156c492b01",
+  "sha256": "cca2afbb9203946509de54c5a2123195e8f141bdfeac76e66234256f4838a261",
+  "limits": "Not a linguistic, bytecode, cross-platform, collision or full design certification.",
+  "web_roundtrip": "WOFF and WOFF2 reopen with matching cmap and glyph order"
+}
